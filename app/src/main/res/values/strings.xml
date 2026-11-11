@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TakRequest</string>
+    <string name="app_desc">Request and reporting board for TAK: transport (air/sea/land), resupply, SITREP and ACE reports, shared over CoT with an approval workflow. Exercise/MILSIM modes. Not a targeting or fire-support tool.</string>
+</resources>
