@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2 (unreleased)
+
+- Fix toolbar icon showing as a white square in ATAK: the icon is now a white glyph (clipboard with a
+  send arrow) on a transparent background, which is what ATAK's tinted toolbar expects.
+
 ## 0.1 (unreleased)
 
 - First build. Request board with transport (air/sea/land), resupply, SITREP and ACE reports.

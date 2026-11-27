@@ -6,7 +6,7 @@ An ATAK plugin for **requests and reporting**: transport (air/sea/land), resuppl
 reports, on a shared board and on the map, exchanged as standard Cursor-on-Target (CoT) with a simple
 approval workflow and EXERCISE / MILSIM / TRAINING modes.
 
-> **Status: early test build (v0.1).** Compiles against the ATAK-CIV 5.5.0 SDK and the core logic is
+> **Status: early test build (v0.2).** Compiles against the ATAK-CIV 5.5.0 SDK and the core logic is
 > unit-tested; not yet exercised on a device.
 
 **Scope:** this is a coordination and reporting tool. It is **not** a targeting or fire-support
